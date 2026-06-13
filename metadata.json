@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Hikami Renpy Translator VN",
+  "description": "Công cụ dịch game Ren\u0027Py bởi Hikami với tính năng cao cấp được hỗ trợ bởi Ziolken với khả năng kết xuất ảo hiệu suất cao và bộ nhớ dịch thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
